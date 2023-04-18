@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
-
+![output](https://github.com/Nagajyothichinta/Ex-2-a-_HelloWorld_Activity/blob/1b56cb3f854c64b1622b50eec0119fb57b157b8c/WhatsApp%20Image%202023-04-18%20at%208.46.17%20AM.jpeg)
 
 
 
